@@ -1,0 +1,55 @@
+*,
+*:before, 
+*:after {
+
+box-sizing: border-box; 
+padding: 0;
+margin: 0;  
+}
+
+.outline{
+    background-color: hsl(0, 0%, 10%);
+    height: 600px;
+}
+
+.header{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-right: 1100px;
+    margin-left: 75px;
+}
+
+.top-line {
+    display: flex;
+    justify-content: column;
+    gap: 100px;
+    align-items: flex-end;
+}
+
+.his_legacy_1, .his_legacy_2, .his_legacy_3 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.boss1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 300px;
+    margin-top: 75px;
+}
+
+.top-portion {
+    width: 800px;
+    margin-top: -250px;
+    margin-left: 75px;
+}
+
+.subtitle {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+
+
+
